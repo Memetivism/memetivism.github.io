@@ -1,101 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Memetivism</title>
-    <meta name="description" content="Hello trial">
-    <style>
-        body {
-            font-family: 'Courier New', monospace;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            line-height: 1.6;
-        }
-        a {
-            color: #58a6ff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        header {
-            border-bottom: 1px solid #30363d;
-            padding-bottom: 20px;
-            margin-bottom: 30px;
-        }
-        h1 {
-            color: #58a6ff;
-        }
-        .content-section {
-            margin-bottom: 40px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 1px solid #30363d;
-            margin: 10px 0;
-        }
-        .pdf-container {
-            margin: 20px 0;
-            border: 1px solid #30363d;
-            padding: 10px;
-        }
-        footer {
-            border-top: 1px solid #30363d;
-            padding-top: 20px;
-            margin-top: 40px;
-            font-size: 0.9em;
-            color: #8b949e;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Simple Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #333;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Memetivism</h1>
-        <p>Hello trial - Exploring digital culture through memes</p>
-    </header>
+  <h1>Welcome to My Page</h1>
+  <p>This is a simple GitHub Page with text and images.</p>
 
-    <main>
-        <section class="content-section">
-            <h2>Introduction to Memetivism</h2>
-            <p>This is your first section of text discussing the concept of memetivism. Memes have become a fundamental part of internet culture, evolving from simple image macros to complex cultural artifacts that shape our digital interactions and societal discourse.</p>
-            
-            <img src="./images/meme-example.jpg" alt="Example meme illustrating digital culture" style="display: block; margin: auto;">
-            <p style="text-align: center; font-size: 0.9em; color: #8b949e;">An example meme that demonstrates visual internet culture</p>
-        </section>
+  <h2>Some Images</h2>
+  <img src="images/photo1.jpg" alt="Photo 1">
+  <img src="images/photo2.jpg" alt="Photo 2">
 
-        <section class="content-section">
-            <h2>Deeper Analysis</h2>
-            <p>This is your second section with more detailed text. Here you can expand on the philosophical underpinnings of memetivism, exploring how ideas spread and mutate in digital environments much like genes in biological evolution.</p>
-            <p>Consider discussing the work of Richard Dawkins who originally coined the term "meme" in his 1976 book "The Selfish Gene," and how this concept has transformed in the age of social media and viral content.</p>
-        </section>
-
-        <section class="content-section">
-            <h2>PDF Resources</h2>
-            <p>Below are some relevant PDF documents for further reading:</p>
-            
-            <div class="pdf-container">
-                <h3><a href="./pdfs/memetivism-theory.pdf" target="_blank">Memetivism Theory PDF</a></h3>
-                <p>This document explores the theoretical foundations of memetivism as a cultural framework.</p>
-                <object data="./pdfs/memetivism-theory.pdf" width="100%" height="500" type="application/pdf">
-                    <p>Your browser doesn't support embedded PDFs. <a href="./pdfs/memetivism-theory.pdf">Download the PDF instead.</a></p>
-                </object>
-            </div>
-
-            <div class="pdf-container">
-                <h3><a href="./pdfs/case-studies.pdf" target="_blank">Case Studies PDF</a></h3>
-                <p>Analysis of famous meme case studies and their cultural impact.</p>
-                <embed src="./pdfs/case-studies.pdf" width="100%" height="500" type="application/pdf">
-            </div>
-        </section>
-    </main>
-
-    <footer>
-        <p>© 2024 Memetivism Project | Built with GitHub Pages using Hacker theme</p>
-    </footer>
+  <h2>About</h2>
+  <p>Here is some more text about me or my project.</p>
 </body>
 </html>
