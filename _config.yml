@@ -1,3 +1,5 @@
 theme: minima
 title: Meme-tivism
 description: description template
+
+imagesurl: "/images/"
