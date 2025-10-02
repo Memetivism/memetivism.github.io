@@ -3,7 +3,6 @@
 
 
 
- www.feministdeisgn.co 
 ![Image]({{ site.imagesurl }}/instagram1.jpg)
 
 Trial etc etc
