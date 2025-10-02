@@ -2,6 +2,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Meme-tivism
 description: description template
 
+logo: "logo1.jpg"
+
+
 imagesurl: "/images/"
 
 plugins:
