@@ -4,7 +4,7 @@ Meme-tivism: Rethinking AI’s Environmental Impact 
 [See the project webpage](https://readymag.website/u3388103535/5011581/).
 
 
-
+![Image]({{ site.imagesurl }}/logo.jpg)
 
 
 
