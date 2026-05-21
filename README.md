@@ -1,7 +1,7 @@
 Meme-tivism: Rethinking AI’s Environmental Impact 
 
 
-[Sign-up to get the toolkit and be updated about the release of public library](https://forms.office.com/e/Yia3d1ASL1).
+[Sign-up to get the toolkit and get an update about the release of the public library](https://forms.office.com/e/Yia3d1ASL1).
 
 
 ![Image]({{ site.imagesurl }}/logo.jpg)
