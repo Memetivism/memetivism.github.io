@@ -23,3 +23,5 @@ This project explores how creative, participatory strategies can make sustainabi
 ![Image]({{ site.imagesurl }}/A9.jpg)
 
 ![Image]({{ site.imagesurl }}/A10.jpg)
+
+Get in touch via: sinem.gorucu@kcl.ac.uk
