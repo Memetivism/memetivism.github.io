@@ -1,7 +1,7 @@
 Meme-tivism: Rethinking AI’s Environmental Impact 
 
 
-[See the project webpage](https://readymag.website/u3388103535/5011581/).
+[Sign-up to get the toolkit and be updated about the release of public library](https://forms.office.com/e/Yia3d1ASL1).
 
 
 ![Image]({{ site.imagesurl }}/logo.jpg)
