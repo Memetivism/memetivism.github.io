@@ -24,4 +24,6 @@ This project explores how creative, participatory strategies can make sustainabi
 
 ![Image]({{ site.imagesurl }}/A10.jpg)
 
+Meme-tivism is now part of airesistlist.org!
+
 Get in touch via: sinem.gorucu@kcl.ac.uk
